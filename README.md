@@ -2,7 +2,7 @@
 Regression task using ships' data carried out as an assignment for @DuckDuckGoose.ai
 
 # Contents
-* Python 3 Notebook with full algorithm implementation, commented step-by-step.
+* Python 3 Notebook with full regression pipeline implementation, commented step-by-step.
 * Input data csv used for hyperparameters tuning and training.
 * Final model file saved using Joblib package.
 * Demo of predictor's usage included at the end of the Notebook .
