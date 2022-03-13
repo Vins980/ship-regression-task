@@ -8,5 +8,5 @@ Regression task using ships' data carried out as an assignment for @DuckDuckGoos
 * Demo of predictor's usage included at the end of the Notebook .
 
 # How to use
-Define your working directory at the beginning of the Notebook (2nd cell). Run the Notebook.
+Set the path to your working directory (containing the file "ship_data.csv") at the beginning of the Notebook (2nd cell). Run the Notebook.
 For a faster completion of the run, avoid running the 'Hyperparameters Tuning' subsection in the 'Model Definition' section.
